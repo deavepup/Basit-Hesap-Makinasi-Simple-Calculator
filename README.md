@@ -7,17 +7,17 @@ Bu örneği anlamak için, aşağıdaki Python programlama konuları hakkında b
     Python Function Arguments
     Python User-defined Functions
     
-    Bu programda, kullanıcıdan bir işlem seçmesini istiyoruz. 1, 2, 3 ve 4 numaralı seçenekler geçerlidir.
-    Başka bir giriş yapılırsa, Geçersiz Giriş görüntülenir ve geçerli bir seçenek çıkana kadar döngü devam eder. 
-    İki numara alınır ve belirli bir bölümü yürütmek için bir if ... elif ... else dallanma kullanılır.
-    Kullanıcı tanımlı işlevler toplama (), çıkarma (), çarpma () ve bölme () ilgili işlemleri değerlendirir ve çıktıyı görüntüler.
+ Bu programda, kullanıcıdan bir işlem seçmesini istiyoruz. 1, 2, 3 ve 4 numaralı seçenekler geçerlidir.
+Başka bir giriş yapılırsa, Geçersiz Giriş görüntülenir ve geçerli bir seçenek çıkana kadar döngü devam eder. 
+İki numara alınır ve belirli bir bölümü yürütmek için bir if ... elif ... else dallanma kullanılır.
+ Kullanıcı tanımlı işlevler toplama (), çıkarma (), çarpma () ve bölme () ilgili işlemleri değerlendirir ve çıktıyı görüntüler.
     
     
     
     
     
     
-    #EN
+   #EN
     A simple calculator that can add, subtract, multiply or divide depending on input from the user
     To understand this example, you should have the knowledge of the following Python programming topics:
     Python Functions
